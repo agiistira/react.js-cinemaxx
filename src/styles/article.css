@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+article {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Quicksand', sans-serif;
+}
+
+nav li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+ }
+ nav {
+    background-color: #00a2c6;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+ }
+ nav a {
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: white;
+ }
+
+ .featured-image {
+   width: 100%;
+   max-height: 300x;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 30px;
+    margin-top: 20px;
+ }
+
+ h2 {
+   color: #00a2c6;
+   text-align: center;
+}

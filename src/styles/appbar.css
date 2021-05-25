@@ -1,0 +1,9 @@
+app-bar {
+    display: block;
+    padding: 16px;
+    width: 100%;
+    background-color: #152761;
+    color: yellow;
+    box-shadow: 0 4px 8px 0 black;
+    text-align: center;
+}
